@@ -1,0 +1,371 @@
+{
+  "main": {
+    "id": "3634c4f80398f34f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf530aa72503d556",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ba68ed1af96f51c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Message/FCM/Get started.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Get started"
+            }
+          },
+          {
+            "id": "dd281c813241d475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Message/FCM/Linking to pages relate/Push token.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Push token"
+            }
+          },
+          {
+            "id": "6be6a8336a3d4569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Message/FCM/Linking to pages relate/Push token.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Push token"
+            }
+          },
+          {
+            "id": "eeb2f49e01826186",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Message/FCM/Setting Up Your Server Environment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setting Up Your Server Environment"
+            }
+          },
+          {
+            "id": "2b5ee38e3a62d52b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Message/FCM/Cloud Messaging.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Messaging"
+            }
+          },
+          {
+            "id": "e0ea44bca1839db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Message/FCM/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "9f8b6a625e0c1366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Message/FCM/Linking to pages relate/Push token.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Push token"
+            }
+          },
+          {
+            "id": "5678a939f03c5358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Message/FCM/Cloud Messaging.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Messaging"
+            }
+          },
+          {
+            "id": "ff90f28ccf3af88c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Message/FCM/Cloud Messaging.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Messaging"
+            }
+          },
+          {
+            "id": "864a3691662d6acb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Message/FCM/Receive message.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Receive message"
+            }
+          },
+          {
+            "id": "e2ebb91e279743a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Message/FCM/Get started.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Get started"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c9c254d8b1eef40",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b1e66e8aed7e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f3b31e3131afed8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8868ac6ee46cef2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0ce175003271cbd1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.51190185546875
+  },
+  "right": {
+    "id": "e94b83a03ccb5d03",
+    "type": "split",
+    "children": [
+      {
+        "id": "81e9453f7a687994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef756ed65f3ca51d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0a8cedb37a6b7d0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5de46f2d7cab8606",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6d00744f830fdef5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2f3b31e3131afed8",
+  "lastOpenFiles": [
+    "Cloud Message/FCM/Receive message.md",
+    "Cloud Message/FCM/Cloud Messaging.md",
+    "Cloud Message/FCM/Receive message using Firebase Cloud Messaging.md",
+    "Cloud Message/FCM/Linking to pages relate/Using Firebase Console.md",
+    "Cloud Message/FCM/Sending a Message.md",
+    "Cloud Message/FCM/Linking to pages relate/Using the Admin SDK.md",
+    "Cloud Message/FCM/Linking to pages relate/Using FCM v1 API.md",
+    "Cloud Message/FCM/Linking to pages relate/Push API.md",
+    "Cloud Message/FCM/Get started.md",
+    "[The.md",
+    "Cloud Message/FCM/FCM Architectural Overview.md",
+    "Cloud Message/FCM/Linking to pages relate/Message types.md",
+    "Cloud Message/FCM/Linking to pages relate/FCM HTTP v1 API.md",
+    "Cloud Message/FCM/Linking to pages relate/Firebase Admin SDK.md",
+    "Cloud Message/FCM/Setting Up Your Server Environment.md",
+    "Cloud Message/FCM/Introduction.md",
+    "Cloud Message/FCM/Linking to pages relate/Push token.md",
+    "Cloud Message/FCM/Sending a Message",
+    "Untitled",
+    "Cloud Message/FCM/Linking to pages relate/Your server env and FCM.md",
+    "().md",
+    "[Get.md",
+    "[The Web Push Protocol.md",
+    "Cloud Message/FCM/Linking to pages relate",
+    "(g).md",
+    "Cloud Message/Untitled.base",
+    "Untitled.md",
+    "Cloud Message/FCM/Images/Pasted image 20250926100225.png",
+    "Cloud Message/FCM/Images/Pasted image 20250925171628 1.png",
+    "Pasted image 20250926100058.png",
+    "Pasted image 20250926095955.png",
+    "Pasted image 20250926095933.png",
+    "Cloud Message/FCM/Images/Pasted image 20250925171628.png",
+    "Pasted image 20250926100006.png",
+    "Cloud Message/FCM/Images",
+    "Cloud Message/MQTT",
+    "Cloud Message/FCM",
+    "Cloud Message",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2025-09-26.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "VueJS/State/Chưa đặt tên.md",
+    "2025-09-25.md",
+    "Pasted image 20250925113130.png",
+    "Pasted image 20250925113135.png"
+  ]
+}
