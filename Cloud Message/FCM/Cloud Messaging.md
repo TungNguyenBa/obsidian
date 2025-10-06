@@ -15,3 +15,14 @@
 
 ---
 # [[Receive message]]
+
+---
+# [[Customizing Message Behavior]]
+
+---
+
+# [[Targeting User Groups]]
+
+---
+
+# [[Advanced Use Cases]]

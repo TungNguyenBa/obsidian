@@ -10,7 +10,6 @@ Using the [FCM HTTP vs API](https://firebase.google.com/docs/reference/fcm/rest/
 	- Notification payload -> available field chuẩn (title, body, icon, ..) -> FCM hiển thị luôn
 	- Data payload -> key-value do you define, app tự xử lý
 	- Both types 
-
 ## Authorize HTTP v1 send request
 
 In order for the server to be eligible to send request to FCM via HTTP v1 API, you must be authorization. Have 3 main options:
@@ -29,5 +28,4 @@ In order for the server to be eligible to send request to FCM via HTTP v1 API, y
 	- Use to authorize direct when call API
 	--> Server run outside Gg cloud
 See [Details]([Send a Message using FCM HTTP v1 API  |  Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/send/v1-api?_gl=1*1ils594*_up*MQ..*_ga*MTQ2MjU3NjcxNS4xNzU4NjE3MDQ2*_ga_CW55HF8NVT*czE3NTg3OTQ4MzYkbzIkZzAkdDE3NTg3OTQ4MzYkajYwJGwwJGgw))
-
 ## Authorize with a Service Account from a Different Project
