@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "0113489f4695dfb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fbbda87c87195a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d947a39b4aa5db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FCM/Cloud Messaging.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Messaging"
+            }
+          }
+        ]
+      },
+      {
+        "id": "17c8155771f17860",
+        "type": "split",
+        "children": [
+          {
+            "id": "e68db45395fbf83a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "31da1d433b3038db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "FCM/Cloud Messaging.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cloud Messaging"
+                }
+              }
+            ]
+          },
+          {
+            "id": "129ae53921dd933e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "916c4967342e3fbe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "FCM/Cloud Messaging.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": false
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cloud Messaging"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f16594e25fb5bbb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5ab62687328fdcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dbaf25566f958d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab96cd56056a8367",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "16bfda8902880469",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02f78b322bbee3cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e50d4955ac0c98f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "907c5f7b13a54aca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FCM/Cloud Messaging.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cloud Messaging"
+            }
+          },
+          {
+            "id": "6d6fe3f64ea6f45f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FCM/Cloud Messaging.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cloud Messaging"
+            }
+          },
+          {
+            "id": "a607eedfa2b87deb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "20a53f5a7e8caa65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FCM/Cloud Messaging.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cloud Messaging"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "916c4967342e3fbe",
+  "lastOpenFiles": [
+    "Cloud Messaging.pdf",
+    "FCM/FCM Architectural Overview.md",
+    "FCM/Cloud Messaging.md",
+    "FCM/Receive message.md",
+    "FCM/Introduction.md",
+    "FCM/Sending a Message.md",
+    "FCM/Setting Up Your Server Environment.md",
+    "FCM/Linking to pages relate/Message types.md",
+    "FCM/Linking to pages relate/Push API.md",
+    "FCM/Linking to pages relate/Using FCM v1 API.md",
+    "FCM/Linking to pages relate/Using Firebase Console.md",
+    "FCM/Linking to pages relate/Your server env and FCM.md"
+  ]
+}
