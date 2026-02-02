@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Message/FCM/Linking to pages relate/Send Messages to Topics.md",
+                "file": "View Inter/Database/2. Partitioning.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Send Messages to Topics"
+              "title": "2. Partitioning"
+            }
+          },
+          {
+            "id": "a796dfb0c7eb9bbc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           },
           {
@@ -27,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Message/Roadmap/8. Complete & Scaling/Complete & Scaling.md",
+                "file": "TOEIC/ETS/ETS 2024.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Complete & Scaling"
+              "title": "ETS 2024"
             }
           },
           {
@@ -93,16 +105,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Message/Roadmap/1. Messaging & MQTT/Core Messaging & MQTT.md",
+                "file": "Cloud Message/Roadmap/2. Backend API/Backend API Base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Messaging & MQTT"
+              "title": "Backend API Base"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Message/Roadmap/8. Complete & Scaling/Complete & Scaling.md",
+                "file": "Cloud Message/Roadmap/5. Broker Layer & Offline Queue/Broker Layer & Offline Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Complete & Scaling"
+              "title": "Backlinks for Broker Layer & Offline Queue"
             }
           },
           {
@@ -222,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Message/Roadmap/8. Complete & Scaling/Complete & Scaling.md",
+                "file": "Cloud Message/Roadmap/5. Broker Layer & Offline Queue/Broker Layer & Offline Queue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Complete & Scaling"
+              "title": "Outline of Broker Layer & Offline Queue"
             }
           }
         ],
@@ -236,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,42 +264,42 @@
   },
   "active": "87e4590b6c8a69ca",
   "lastOpenFiles": [
-    "Cloud Message/Roadmap/7. K8s/K8s.md",
-    "Cloud Message/Roadmap/6. Logging, Monitoring & Dashboard API/Logging, Monitoring & Dashboard API.md",
-    "Cloud Message/Roadmap/5. Broker Layer & Offline Queue/Broker Layer & Offline Queue.md",
-    "Cloud Message/Roadmap/4. Auth & Device Management/Auth & Device Management.md",
-    "Cloud Message/Roadmap/3. Kafka & Event-driven Architecture/Kafka & Event-driven Architecture.md",
+    "View Inter/Database/2. Partitioning.md",
+    "FreeTest/I. DI.md",
+    "DSA/Array.md",
+    "View Inter/Database/1. Index.md",
+    "ReactJS/Easy FontEnd.md",
+    "ReactJS/Tem Note.md",
+    "TOEIC/ETS/ETS 2024.md",
     "Cloud Message/Roadmap/2. Backend API/Backend API Base.md",
-    "Cloud Message/Roadmap/1. Messaging & MQTT/Core Messaging & MQTT.md",
-    "Cloud Message/MQTT/Retained Message.md",
     "Cloud Message/FCM/Targeting User Groups.md",
-    "Cloud Message/FCM/Linking to pages relate/Send Messages to Topics.md",
-    "Cloud Message/FCM/Linking to pages relate/Using the Admin SDK.md",
-    "Cloud Message/Roadmap/8. Complete & Scaling/Complete & Scaling.md",
-    "Cloud Message/FCM/Linking to pages relate/Scaling message delivery.md",
-    "Cloud Message/Roadmap/8. Complete & Scaling",
-    "Cloud Message/Roadmap/7. K8s",
-    "Cloud Message/Roadmap/6. Logging, Monitoring & Dashboard API",
-    "Cloud Message/Roadmap/5. Broker Layer & Offline Queue",
-    "Cloud Message/Roadmap/4. Auth & Device Management",
-    "Cloud Message/Roadmap/3. Kafka & Event-driven Architecture",
-    "Cloud Message/Roadmap/Untitled.md",
-    "Cloud Message/Roadmap/2. Backend API",
-    "Cloud Message/Roadmap/1. Messaging & MQTT",
-    "Cloud Message/Roadmap",
-    "Cloud Message/FCM/Linking to pages relate/Optimizing and scaling messages.md",
-    "Cloud Message/FCM/Advanced Use Cases.md",
+    "TOEIC/Tip.md",
+    "TOEIC/ETS",
+    "TOEIC",
+    "DSA/StackQueue.md",
+    "DSA/Heap.md",
+    "DSA/Tree.md",
+    "DSA/LinkedList.md",
+    "DSA/Hash.md",
+    "Untitled.md",
+    "DSA",
+    "View Inter/Database",
+    "View Inter",
+    "FreeTest",
+    "Cloud Message/IMS/Devices API.md",
     "Cloud Message/FCM/Linking to pages relate/Send Messages to Device Groups.md",
     "Cloud Message/FCM/Customizing Message Behavior.md",
+    "Cloud Message/FCM/Receive message.md",
+    "Cloud Message/FCM/Sending a Message.md",
+    "Cloud Message/FCM/Setting Up Your Server Environment.md",
+    "Cloud Message/FCM/Cloud Messaging.md",
+    "Cloud Message/FCM/Linking to pages relate/Scaling message delivery.md",
     "Cloud Message/FCM/Linking to pages relate/Get AI insights for messaging campaigns.md",
     "Cloud Message/FCM/Linking to pages relate/Configuring your network for FCM.md",
-    "Cloud Message/FCM/Setting Up Your Server Environment.md",
-    "Cloud Message/FCM/Sending a Message.md",
-    "Cloud Message/FCM/Receive message.md",
-    "Cloud Message/FCM/Introduction.md",
-    "Cloud Message/FCM/Get started.md",
-    "Cloud Message/FCM/FCM Architectural Overview.md",
-    "Cloud Message/FCM/Sending a Message",
+    "Cloud Message/IMS",
+    "ReactJS/Untitled.base",
+    "ReactJS",
+    "Cloud Message/Kafka",
     "Cloud Message/FCM/Images/Pasted image 20250926100225.png",
     "Cloud Message/FCM/Images/Pasted image 20250925171628 1.png",
     "Pasted image 20250926100058.png",

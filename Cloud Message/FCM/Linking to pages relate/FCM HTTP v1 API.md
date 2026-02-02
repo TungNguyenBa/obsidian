@@ -1,4 +1,4 @@
-FCM HTTP vs API is REST raw Google protocol provide to server comnunicate direct with FCM
+FCM HTTP vs API is REST raw Google protocol provide to server communicate direct with FCM
 Server want to send message need to:
 - Send a HTTP POST request -> endpoint FCM
 - Add header (Contains Access Token for authentication)
